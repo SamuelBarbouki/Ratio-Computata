@@ -1,0 +1,10 @@
+﻿# Private
+.env
+
+# Python scripts (local tools only)
+*.py
+requirements.txt
+__pycache__/
+
+# Editor
+.vscode/
